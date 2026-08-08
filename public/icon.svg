@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded Square Container -->
+  <rect width="512" height="512" rx="128" fill="url(#grad)" />
+  
+  <!-- Bold "D" Letterform -->
+  <path d="M 140 100 H 260 C 350 100 410 160 410 256 C 410 352 350 412 260 412 H 140 V 100 Z M 215 170 V 342 H 255 C 305 342 335 310 335 256 C 335 202 305 170 255 170 H 215 Z" fill="#ffffff" />
+</svg>
