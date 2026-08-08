@@ -103,6 +103,8 @@ export default function Projects() {
                     <Image
                       src="/github.svg"
                       alt="GitHub"
+                      width={20}
+                      height={20}
                       className="w-3.5 h-3.5 invert"
                     />
                     <span>Repository</span>
