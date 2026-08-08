@@ -145,26 +145,6 @@ export default function Skills() {
                 ))}
             </div>
             </div>
-
-      <style jsx>{`
-        .skills-marquee {
-          animation: skills-scroll 35s linear infinite;
-        }
-
-        .skills-marquee:hover {
-          animation-play-state: paused;
-        }
-
-        @keyframes skills-scroll {
-          from {
-            transform: translateX(0);
-          }
-
-          to {
-            transform: translateX(-50%);
-          }
-        }
-      `}</style>
     </section>
   );
 }
