@@ -50,7 +50,7 @@ export default function Navbar() {
               flex h-9 w-9 items-center justify-center
               rounded-full
               bg-slate-800
-              font-serif
+              font-sans
               text-sm
               font-bold
               tracking-tighter

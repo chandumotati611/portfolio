@@ -31,19 +31,20 @@ export default function Home() {
           text-center
         "
       >
-        <span className="mb-6 text-xs font-bold uppercase tracking-[0.3em] text-slate-500">
-          HI! THIS IS{" "}
-          <span className="font-extrabold text-slate-950">
-            DEVI CHANDU
-          </span>
+
+      <span className="mb-6 block text-xs font-bold uppercase tracking-[0.3em] text-slate-500">
+        HI! THIS IS{" "}
+        <span className="bg-yellow-200 px-1 text-sm font-extrabold tracking-normal text-slate-950">
+          DEVI CHANDU
         </span>
+      </span>
 
         <h1 className="font-serif text-5xl font-light leading-[1.1] tracking-tight text-slate-900 md:text-7xl">
           Building <br />
           <span className="font-light italic">Better</span> Software.
         </h1>
 
-        <h2 className="mt-8 max-w-2xl text-xl font-light tracking-wide text-slate-700 md:text-2xl">
+        <h2 className="font-sans mt-8 max-w-xl text-xl font-light tracking-wide text-slate-700 md:text-2xl">
           Software Engineer focused on AI, backend systems, and scalable
           software.
         </h2>
